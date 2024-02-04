@@ -5,7 +5,7 @@
 ## Contact Information
 - **Email:** thobilesema@gmail.com
 - **Phone:** (083) 813 3619 
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/thobile-sema-b64976263)
 - **GitHub:** [GitHub Profile](https://github.com/tnsema)
 
 ## Summary
@@ -13,8 +13,6 @@ Experienced professional with a background in [your field/industry] seeking [bri
 
 ## Education
 ### Tshwane University of Technology, Diploma
-- **Major:** Your Major
-- Relevant coursework: Course 1, Course 2, Course 3
 
 ## Skills
 - Microsoft Office
@@ -27,4 +25,7 @@ Experienced professional with a background in [your field/industry] seeking [bri
 ## Languages
 - English
 - Sepedi
+
+## Microsoft learn profile
+https://learn.microsoft.com/en-za/users/thobilesema-8744/
 
