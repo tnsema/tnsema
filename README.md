@@ -5,7 +5,7 @@
 ## Contact Information
 - **Email:** thobilesema@gmail.com
 - **Phone:** (083) 813 3619 
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/thobile-sema-b64976263)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/tnsema)
 - **GitHub:** [GitHub Profile](https://github.com/tnsema)
 
 ## Summary
