@@ -10,7 +10,7 @@
 - **Credly** [Credly Profile](https://www.credly.com/users/thobile-sema/badges)
 
 ## Summary
-Experienced professional with a background in [your field/industry] seeking [brief description of what you're seeking or your career objective].
+As an energetic IT ninja, I have gained valuable experience working on a variety of projects. I am always eager to learn more and expand my skills. In the future, I aspire to see South Africa become a hub for IT innovation, with myself as one of the leaders in the industry.
 
 ## Education
 ### Tshwane University of Technology, Diploma
