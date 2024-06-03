@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Thobile Ndoda Sema
+# Thobile Sema
 
 ## Contact Information
 - **Email:** thobilesema@gmail.com
