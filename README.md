@@ -1,6 +1,5 @@
-### Hi there 👋
+###                                                                                      Hi there 👋, I am Thobile Sema
 
-# Thobile Sema
 
 ## Contact Information
 - **Email:** thobilesema@gmail.com
