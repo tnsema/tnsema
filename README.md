@@ -26,15 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tnsema&show_icons=true&locale=en" alt="tnsema" /></p>
 
 
-
-
-
-### <span style="color: blue; ">Hi there 👋, I am Thobile Sema</span>
-
-
-<span style="color: red;">This text is red.</span>
-
-
 ## Contact Information
 - **Email:** thobilesema@gmail.com
 - **Phone:** (083) 813 3619 
