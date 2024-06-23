@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Kill the boy and let the man be born**
 
-<img src="https://gifdb.com/images/high/fast-binary-blue-coding-paluyjaj4cugdhll.gif" />
+<img src="https://gifdb.com/images/high/fast-binary-blue-coding-paluyjaj4cugdhll.gif" height="100" />
 
 <p align="left">
 </p>
