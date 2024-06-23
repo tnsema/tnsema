@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I am Thobile Sema</h1>
 <h3 align="center">--Driven Software Developer-in-Training | Eager to Dive Deep into Coding Challenges--</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tnsema&label=Profile%20views&color=0e75b6&style=flat" alt="tnsema" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnsema" alt="tnsema" /></a> </p>
 
