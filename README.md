@@ -2,6 +2,7 @@
 <h1 align="center">Hi there 👋, I am Thobile Sema</h1>
 <h3 align="center">--Driven Software Developer-in-Training | Eager to Dive Deep into Coding Challenges--</h3>
 
+<div height="2cm"></div>
 
 <img src="https://media.licdn.com/dms/image/D4D16AQEEX3V5ZhB_gA/profile-displaybackgroundimage-shrink_350_1400/0/1715805579477?e=1724889600&v=beta&t=Ebv8SBXB8Mv-AQv0Rd8tb2v-w5GHJRC9wiewF1pUATY" />
 
@@ -14,7 +15,7 @@
 
 - ⚡ Fun fact **Kill the boy and let the man be born**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
