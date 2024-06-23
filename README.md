@@ -41,6 +41,8 @@
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/tnsema/)
 - **GitHub:** [GitHub Profile](https://github.com/tnsema)
 - **Credly** [Credly Profile](https://www.credly.com/users/thobile-sema/badges)
+- ## Microsoft learn profile
+https://learn.microsoft.com/en-za/users/thobilesema-8744/
 
 ## Summary
 As an energetic IT ninja, I have gained valuable experience working on a variety of projects. I am always eager to learn more and expand my skills. In the future, I aspire to see South Africa become a hub for IT innovation, with myself as one of the leaders in the industry.
@@ -69,7 +71,6 @@ As a student, I specialize in Java programming, web development, and mobile deve
 - Sepedi
   
 
-## Microsoft learn profile
-https://learn.microsoft.com/en-za/users/thobilesema-8744/
+
 
 > # Nice man!
