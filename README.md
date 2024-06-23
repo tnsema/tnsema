@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ninja</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there 👋, I am Thobile Sema</h1>
+<h3 align="center">--Driven Software Developer-in-Training | Eager to Dive Deep into Coding Challenges--</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnsema&label=Profile%20views&color=0e75b6&style=flat" alt="tnsema" /> </p>
 
