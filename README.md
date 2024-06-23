@@ -1,4 +1,4 @@
-### <span style="color: blue;">Hi there 👋, I am Thobile Sema</span>
+### <span style="color: blue; ">Hi there 👋, I am Thobile Sema</span>
 
 
 <span style="color: red;">This text is red.</span>
