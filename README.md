@@ -35,3 +35,17 @@ src="https://img.shields.io/github/followers/tnsema?logo=github&style=for-the-ba
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,kotlin,js,ts,python,php,nodejs,express,nextjs,react,tailwind,bootstrap" />
 </p>
+
+
+
+* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg" width="18" height="18"> Based in **Gauteng, South Africa**
+* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code-2.svg" width="18" height="18"> Currently developing **[Campus API](https://github.com/tnsema/campus-api)** — a project aimed at streamlining student resources
+* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layers.svg" width="18" height="18"> Deep diving into **Cloud Infrastructure** and **System Design**
+* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/message-square.svg" width="18" height="18"> Ask me about: *“It takes a wolf to chase the wolf”* — I’m always up for a talk about grit and strategy
+* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/users-2.svg" width="18" height="18"> Looking to collaborate on **Cloud-Native applications** and **DevOps automation**
+
+* ![Location](https://img.shields.io/badge/Location-Gauteng%2C%20South%20Africa-blue?style=flat-square&logo=googlemaps&logoColor=white)
+* ![Project](https://img.shields.io/badge/Project-Campus%20API-orange?style=flat-square&logo=github&logoColor=white) — *Streamlining student resources*
+* ![Learning](https://img.shields.io/badge/Learning-Cloud%20%26%20System%20Design-success?style=flat-square&logo=airplay&logoColor=white)
+* ![Philosophy](https://img.shields.io/badge/Philosophy-Grit%20%26%20Strategy-red?style=flat-square&logo=wolfram&logoColor=white) — *"It takes a wolf to chase the wolf"*
+* ![Collab](https://img.shields.io/badge/Collab-Cloud%20Native%20%26%20DevOps-blueviolet?style=flat-square&logo=docker&logoColor=white)
