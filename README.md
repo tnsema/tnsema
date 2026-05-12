@@ -30,3 +30,8 @@ src="https://img.shields.io/github/followers/tnsema?logo=github&style=for-the-ba
 <a href="http://www.github.com/tnsema"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tnsema&stroke=ef4444&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ef4444&currStreakLabel=ffffff&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
 <a href="https://github.com/tnsema" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnsema&langs_count=10&title_color=ffffff&text_color=ef4444&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+#### **Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,js,ts,python,php,nodejs,express,nextjs,react,tailwind,bootstrap" />
+</p>
