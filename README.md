@@ -32,8 +32,8 @@
 
 ### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tnsema&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thobile's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnsema&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tnsema&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thobile's Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tnsema&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
