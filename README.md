@@ -1,51 +1,55 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thobile Sema
-=====================================================================================================================================
+# Hi there! I'm Thobile Sema <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">
 
-Software developer and cloud computing
---------------------------------------
+### ☁️ Cloud Engineer & Software Developer
+**Architecting scalable, resilient environments and building the APIs that power them.**
 
-* 🌍  I'm based in South Africa
-* 🖥️  See my portfolio at [MyPortfolio](http://https://portfolio.thosem.com/)
-* ✉️  You can contact me at [thobilesema@gmail.com](mailto:thobilesema@gmail.com)
-* 🚀  I'm currently working on [Campus Api](http://api)
-* 🧠  I'm currently learning Cloud Computiong
-* 👥  I'm looking to collaborate on Cloud related projects
-* 💬  Ask me about It takes a wolf to chase the wolf
+---
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="Digital Ocean" title="Digital Ocean" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/tnsema" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/tnsema/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@ThobileSema" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-<a href="https://www.github.com/tnsema" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tnsema?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/tnsema"><img src="https://github-readme-stats.vercel.app/api?username=tnsema&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="tnsema's GitHub stats" /></a>
-
-<a href="http://www.github.com/tnsema"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tnsema&stroke=ef4444&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ef4444&currStreakLabel=ffffff&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
-
-<a href="https://github.com/tnsema" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnsema&langs_count=10&title_color=ffffff&text_color=ef4444&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-#### **Languages & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,js,ts,python,php,nodejs,express,nextjs,react,tailwind,bootstrap" />
-</p>
-
-
-
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg" width="18" height="18"> Based in **Gauteng, South Africa**
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code-2.svg" width="18" height="18"> Currently developing **[Campus API](https://github.com/tnsema/campus-api)** — a project aimed at streamlining student resources
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layers.svg" width="18" height="18"> Deep diving into **Cloud Infrastructure** and **System Design**
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/message-square.svg" width="18" height="18"> Ask me about: *“It takes a wolf to chase the wolf”* — I’m always up for a talk about grit and strategy
-* <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/users-2.svg" width="18" height="18"> Looking to collaborate on **Cloud-Native applications** and **DevOps automation**
-
+### 🛠️ Professional Focus
 * ![Location](https://img.shields.io/badge/Location-Gauteng%2C%20South%20Africa-blue?style=flat-square&logo=googlemaps&logoColor=white)
-* ![Project](https://img.shields.io/badge/Project-Campus%20API-orange?style=flat-square&logo=github&logoColor=white) — *Streamlining student resources*
-* ![Learning](https://img.shields.io/badge/Learning-Cloud%20%26%20System%20Design-success?style=flat-square&logo=airplay&logoColor=white)
+* ![Focus](https://img.shields.io/badge/Focus-Cloud%20Computing-orange?style=flat-square&logo=icloud&logoColor=white) — *Building high-availability systems*
+* ![Project](https://img.shields.io/badge/Project-Campus%20API-success?style=flat-square&logo=express&logoColor=white) — *A cloud-native student resource engine*
 * ![Philosophy](https://img.shields.io/badge/Philosophy-Grit%20%26%20Strategy-red?style=flat-square&logo=wolfram&logoColor=white) — *"It takes a wolf to chase the wolf"*
-* ![Collab](https://img.shields.io/badge/Collab-Cloud%20Native%20%26%20DevOps-blueviolet?style=flat-square&logo=docker&logoColor=white)
+* ![Collaboration](https://img.shields.io/badge/Collaboration-DevOps%20%26%20Automation-blueviolet?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 🏗️ Cloud & Infrastructure Stack
+*Deploying with precision and managing with code.*
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,ubuntu,nginx,bash,githubactions,digitalocean" />
+</p>
+
+### 💻 Development & Back-end
+*Crafting the logic behind the infrastructure.*
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,mysql,postgres,ts,js,python" />
+</p>
+
+---
+
+### 📊 Engineering Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tnsema&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Thobile's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnsema&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tnsema&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%" />
+</p>
+
+---
+
+### 🌐 Digital Presence
+<p align="left">
+<a href="https://linkedin.com/in/tnsema" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
+<a href="https://www.youtube.com/@ThobileSema" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" /></a>
+<a href="mailto:thobilesema@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
+<a href="https://portfolio.thosem.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tnsema&label=Cloud%20Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+</p>
