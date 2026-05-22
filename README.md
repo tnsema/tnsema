@@ -3,7 +3,7 @@
 ### ☁️ Cloud Engineer & Software Developer
 **Architecting scalable, resilient environments and building the APIs that power them.**
 
----
+--
 
 ### 🛠️ Professional Focus
 * ![Location](https://img.shields.io/badge/Location-Gauteng%2C%20South%20Africa-blue?style=flat-square&logo=googlemaps&logoColor=white)
