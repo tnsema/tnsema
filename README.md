@@ -8,7 +8,7 @@
 ### 🛠️ Professional Focus
 * ![Location](https://img.shields.io/badge/Location-Gauteng%2C%20South%20Africa-blue?style=flat-square&logo=googlemaps&logoColor=white)
 * ![Focus](https://img.shields.io/badge/Focus-Cloud%20Computing-orange?style=flat-square&logo=icloud&logoColor=white) — *Building high-availability systems*
-* ![Project](https://img.shields.io/badge/Project-Campus%20API-success?style=flat-square&logo=express&logoColor=white) — *A cloud-native student resource engine*
+* ![Project](https://img.shields.io/badge/Project-AwayClock%20API-success?style=flat-square&logo=express&logoColor=white) — *A cloud-native student resource engine*
 * ![Philosophy](https://img.shields.io/badge/Philosophy-Grit%20%26%20Strategy-red?style=flat-square&logo=wolfram&logoColor=white) — *"It takes a wolf to chase the wolf"*
 * ![Collaboration](https://img.shields.io/badge/Collaboration-DevOps%20%26%20Automation-blueviolet?style=flat-square&logo=docker&logoColor=white)
 
